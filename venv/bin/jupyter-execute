@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/cytech/Desktop/taiwan/cours/data mining/DM2026-Assignment-1/venv/bin/python3" "$0" "$@"
-' '''
+#!/home/cytech/Desktop/taiwan/cours/data_mining/DM2026-Assignment-1/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
